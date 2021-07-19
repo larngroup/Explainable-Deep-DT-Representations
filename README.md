@@ -7,5 +7,5 @@
 ## Chemogenomc Representative K-Fold 
 <p align="center"><img src="/figure/split_data.png"/></p>
 
-## 
+## Regression Discriminative Localization Map
 <p align="center"><img src="/figure/gradram_result.png"/></p>
