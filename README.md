@@ -25,20 +25,20 @@
 
 ## Davis Kinase Binding Affinity
 ### Dataset
-- **davis_original_dataset:** original davis dataset
-- **davis_dataset_processed:** davis dataset processed : prot sequences + rdkit SMILES strings + pkd values
-- **deep_features_dataset:** davis dataset CNN deep representations: protein + SMILES deep representations
+- **davis_original_dataset:** original dataset
+- **davis_dataset_processed:** dataset processed : prot sequences + rdkit SMILES strings + pkd values
+- **deep_features_dataset:** CNN deep representations: protein + SMILES deep representations
 ### Clusters
-- **test_cluster**
-- **train_cluster_X**
+- **test_cluster:** independent test set indices
+- **train_cluster_X:** train indices 
 ### Similarity
-- **protein_sw_score**
-- **protein_sw_score_norm**
-- **smiles_ecfp6_tanimoto_sim**
+- **protein_sw_score:** protein Smith-Waterman similarity scores
+- **protein_sw_score_norm:** protein Smith-Waterman similarity normalized scores
+- **smiles_ecfp6_tanimoto_sim:** SMILES Morgan radius 3 similarity scores
 ### Binding
-- **davis_scpdb_binding**
+- **davis_scpdb_binding:** davis-scpdb matching pairs binding information
 ### PSSM
-- **pssm_0**
+- **pssm_X:** davis-scpdb matching pairs PSSM
 
 
 
