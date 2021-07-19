@@ -1,0 +1,2 @@
+model_checkpoint_path: "cnn_model_pad_same"
+all_model_checkpoint_paths: "cnn_model_pad_same"
