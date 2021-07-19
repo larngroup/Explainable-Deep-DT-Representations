@@ -22,3 +22,7 @@
 - **Global Max Pooling + Non Guided Gradients**
 - **Global Average Pooling + Guided Gradients**
 - **Global Average Pooling + Non Guided Gradients**
+
+## Dictionaries
+- **davis_prot_dictionary**: AA char-integer dictionary
+- **davis_smiles_dictionary**: SMILES char-integer dictionary
