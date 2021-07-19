@@ -40,7 +40,11 @@
 ### PSSM
 - **pssm_X:** davis-scpdb matching pairs PSSM
 
-
+## sc-PDB Pairs
+### Binding
+- **scpdb_binding:** scpdb pairs binding information
+### PSSM
+- **pssm_X:** scpdb pairs PSSM
 
 ## Dictionaries
 - **davis_prot_dictionary**: AA char-integer dictionary
