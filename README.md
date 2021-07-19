@@ -17,7 +17,7 @@
 - **Gradient Boosting Regressor** (Deep Representations)
 - **Kernel Ridge Regression** (Deep Representations)
 
-## Gradient-Weighted Regression Activation Mapping 
+## Gradient-Weighted Regression Activation Mapping (Grad-RAM)
 - **Global Max Pooling + Guided Gradients**
 - **Global Max Pooling + Non Guided Gradients**
 - **Global Average Pooling + Guided Gradients**
@@ -25,9 +25,9 @@
 
 ## Davis Kinase Binding Affinity
 ### Dataset
-- **davis_original_dataset**
-- **davis_dataset_processed**
-- **deep_features_dataset**
+- **davis_original_dataset:** original davis dataset
+- **davis_dataset_processed:** davis dataset processed : prot sequences + rdkit SMILES strings + pkd values
+- **deep_features_dataset:** davis dataset CNN deep representations: protein + SMILES deep representations
 ### Clusters
 - **test_cluster**
 - **train_cluster_X**
