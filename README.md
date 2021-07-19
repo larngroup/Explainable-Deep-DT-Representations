@@ -10,9 +10,15 @@
 ## Regression Discriminative Localization Map
 <p align="center"><img src="/figure/gradram_result.png"/></p>
 
-## Models
+## Binding Affinity Prediction Models
 - **Two Parallel Convolution Neural Networks + Fully Connected Neural Network** (Deep Representations)
 - **Random Forest Regressor** (Deep Representations)
 - **Support Vector Regressor** (Deep Representations)
 - **Gradient Boosting Regressor** (Deep Representations)
 - **Kernel Ridge Regression** (Deep Representations)
+
+## Gradient-Weighted Regression Activation Mapping 
+- **Global Max Pooling + Guided Gradients**
+- **Global Max Pooling + Non Guided Gradients**
+- **Global Average Pooling + Guided Gradients**
+- **Global Average Pooling + Non Guided Gradients**
