@@ -9,3 +9,10 @@
 
 ## Regression Discriminative Localization Map
 <p align="center"><img src="/figure/gradram_result.png"/></p>
+
+## Models:
+- **Two Parallel Convolution Neural Networks + Fully Connected Neural Network**
+- **Random Forest Regressor
+- **Support Vector Regressor
+- **Gradient Boosting Regressor
+- **Kernel Ridge Regression
