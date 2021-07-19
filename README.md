@@ -49,3 +49,20 @@
 ## Dictionaries
 - **davis_prot_dictionary**: AA char-integer dictionary
 - **davis_smiles_dictionary**: SMILES char-integer dictionary
+
+## Requirements:
+### Python
+- Python 3.7.9
+- Tensorflow 2.4.1
+- Numpy 
+- Pandas
+- Scikit-learn
+- Itertools
+- Matplotlib
+- Seaborn
+- Glob
+- Json
+- Pickle
+- RDKIT (Env)
+### R
+- Biostrings
