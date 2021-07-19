@@ -3,3 +3,9 @@
 
 ## End-to-End Deep Learning Architecture: Convolutional Neural Networks + Feed-Forward Fully Connected Neural Network
 <p align="center"><img src="/figure/pred_model.png"/></p>
+
+## Chemogenomc Representative K-Fold 
+<p align="center"><img src="/figure/split_data.png"/></p>
+
+## 
+<p align="center"><img src="/figure/split_data.png"/></p>
