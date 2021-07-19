@@ -8,4 +8,4 @@
 <p align="center"><img src="/figure/split_data.png"/></p>
 
 ## 
-<p align="center"><img src="/figure/split_data.png"/></p>
+<p align="center"><img src="/figure/gradram_result.png"/></p>
