@@ -23,12 +23,22 @@
 - **Global Average Pooling + Guided Gradients**
 - **Global Average Pooling + Non Guided Gradients**
 
-## Datasets
 ## Davis Kinase Binding Affinity
 ### Dataset
 - **davis_original_dataset**
 - **davis_dataset_processed**
 - **deep_features_dataset**
+### Clusters
+- **test_cluster**
+- **train_cluster_X**
+### Similarity
+- **protein_sw_score**
+- **protein_sw_score_norm**
+- **smiles_ecfp6_tanimoto_sim**
+### Binding
+- **davis_scpdb_binding**
+### PSSM
+- **pssm_0**
 
 
 
