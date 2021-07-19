@@ -23,6 +23,14 @@
 - **Global Average Pooling + Guided Gradients**
 - **Global Average Pooling + Non Guided Gradients**
 
+## Datasets
+### Davis
+#### Dataset
+- **davis_original_dataset**
+- **davis_dataset_processed**
+- **deep_features_dataset**
+
+
 ## Dictionaries
 - **davis_prot_dictionary**: AA char-integer dictionary
 - **davis_smiles_dictionary**: SMILES char-integer dictionary
