@@ -24,11 +24,12 @@
 - **Global Average Pooling + Non Guided Gradients**
 
 ## Datasets
-### Davis
-#### Dataset
+## Davis Kinase Binding Affinity
+### Dataset
 - **davis_original_dataset**
 - **davis_dataset_processed**
 - **deep_features_dataset**
+
 
 
 ## Dictionaries
