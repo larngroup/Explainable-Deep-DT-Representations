@@ -65,6 +65,10 @@ Davis Kinase Binding Affinity Dataset + Clusters in the SOTA method format
 ## ID-DREAM Challenge
 DTC Data + Davis, Round I and II Testing Data, Dictionaries and Trained Model (default parameters).
 
+## Docking
+- **abl1_pymol.pse**: ABL1(E255K)-phosphorylated - SKI-606 PyMol Session
+- **ddr1_pymol.pse**: DDR1 - Erlotinib PyMol Session
+- 
 ## Requirements:
 ### Python
 - Python 3.7.9
