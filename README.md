@@ -11,9 +11,9 @@
 <p align="center"><img src="/figure/gradram_result.png"/></p>
 
 ## 3D Docking Visualization
-Potential Binding Sites (&leq 5)
-
-
+Potential Binding Sites (≤ 5 Å) : Green
+L-Grad-RAM Hits : Blue
+Matched Binding - L-Grad-RAM Hits : Red
 **ABL1(E255K)-phosphorylated - SKI-606**
 <p align="center"><img src="/figure/abl1_ski606.png"/></p>
 
