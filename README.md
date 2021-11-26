@@ -11,21 +11,20 @@
 <p align="center"><img src="/figure/gradram_result.png"/></p>
 
 ## 3D Docking Visualization
-Potential Binding Sites (≤ 5 Å) : Green
-L-Grad-RAM Hits : Blue
-Matched Binding - L-Grad-RAM Hits : Red
+- **Potential Binding Sites (≤ 5 Å) : Green**
+
+- **L-Grad-RAM Hits : Blue**
+
+- **Matched Binding - L-Grad-RAM Hits : Red**
+
 **ABL1(E255K)-phosphorylated - SKI-606**
 <p align="center"><img src="/figure/abl1_ski606.png"/></p>
 
 **DDR1 - Erlotinib**
 <p align="center"><img src="/figure/ddr1_erlotinib.png"/></p>
 
-## Binding Affinity Prediction Models
-- **Two Parallel Convolution Neural Networks + Fully Connected Neural Network** (Deep Representations)
-- **Random Forest Regressor** (Deep Representations)
-- **Support Vector Regressor** (Deep Representations)
-- **Gradient Boosting Regressor** (Deep Representations)
-- **Kernel Ridge Regression** (Deep Representations)
+## Binding Affinity Prediction Model
+- **Two Parallel Convolution Neural Networks + Fully Connected Neural Network**
 
 ## Gradient-Weighted Regression Activation Mapping (Grad-RAM)
 - **Global Max Pooling + Guided Gradients**
@@ -59,6 +58,10 @@ Matched Binding - L-Grad-RAM Hits : Red
 ## Dictionaries
 - **davis_prot_dictionary**: AA char-integer dictionary
 - **davis_smiles_dictionary**: SMILES char-integer dictionary
+
+## State-of-the-Art Baselines Data
+Davis Kinase Binding Affinity Dataset + Clusters in the SOTA method format
+
 
 ## Requirements:
 ### Python
