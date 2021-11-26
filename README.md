@@ -62,6 +62,8 @@
 ## State-of-the-Art Baselines Data
 Davis Kinase Binding Affinity Dataset + Clusters in the SOTA method format
 
+## ID-DREAM Challenge
+DTC Data + Davis, Round I and II Testing Data, Dictionaries and Trained Model (default parameters).
 
 ## Requirements:
 ### Python
