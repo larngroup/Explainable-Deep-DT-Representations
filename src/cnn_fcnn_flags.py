@@ -145,7 +145,7 @@ def argparser():
     parser.add_argument(
       '--num_epochs',
       type=int,
-      default=3,
+      default=500,
       help='Number of Epochs.'
       )
     parser.add_argument(
