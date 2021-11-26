@@ -80,3 +80,31 @@ DTC Data + Davis, Round I and II Testing Data, Dictionaries and Trained Model (d
 - Seaborn
 - Glob
 - Json
+
+## Usage:
+## Binding Affinity Prediction
+### Training
+```
+python cnn_fcnn_model.py --option Training --num_cnn_layers_prot 3 --prot_filters 64 64 128 --prot_filters_w 4 4 5 --num_cnn_layers_smiles 3 --smiles_filters 64 64 128 --smiles_filters_w 4 4 5 --num_fcnn_layers 3 --fcnn_units 1024 512 1024 --drop_rate 0.5 0.1 --lr_rate 0.0001 
+```
+### Validation
+```
+python cnn_fcnn_model.py --option Validation --num_cnn_layers_prot 3 --prot_filters 64 64 128 --prot_filters_w 4 4 5 --num_cnn_layers_smiles 3 --smiles_filters 64 64 128 --smiles_filters_w 4 4 5 --num_fcnn_layers 3 --fcnn_units 1024 512 1024 --drop_rate 0.5 0.1 --lr_rate 0.0001 
+```
+
+### Evaluation
+```
+python cnn_fcnn_model.py --option Evaluation
+```
+
+##  Gradient-weighted Regression Activation Mapping (L-Grad-RAM)
+**Example**
+- **Protein Sequence** : MLEICLKLVG...
+- **SMILES String** : Cc1cn(...
+- **Window Length** : 0 1 2 ...
+- **Feature Importance Threshold** : 0.3 0.4 0.5 ...
+- **Binding Sites Positions** : 5 10 50 ...
+
+```
+python gradram_testing.py --protein_sequence MLEICLKLVG... --smiles_string Cc1cn(... --window 0 1 2 ... --thresholds 0.3 0.4 0.5 ... --sites 5 10 50 ...
+```
