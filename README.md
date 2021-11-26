@@ -68,9 +68,8 @@ DTC Data + Davis, Round I and II Testing Data, Dictionaries and Trained Model (d
 ## Docking
 - **abl1_pymol.pse**: ABL1(E255K)-phosphorylated - SKI-606 PyMol Session
 - **ddr1_pymol.pse**: DDR1 - Erlotinib PyMol Session
-- 
+
 ## Requirements:
-### Python
 - Python 3.7.9
 - Tensorflow 2.4.1
 - Numpy 
@@ -81,7 +80,3 @@ DTC Data + Davis, Round I and II Testing Data, Dictionaries and Trained Model (d
 - Seaborn
 - Glob
 - Json
-- Pickle
-- RDKIT (Env)
-### R
-- Biostrings
