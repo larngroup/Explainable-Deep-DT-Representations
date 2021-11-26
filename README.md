@@ -2,13 +2,13 @@
 <p align="justify"> We explore the reliability of Convolutional Neural Networks (CNNs) in the identification of important regions for binding, and the significance of the deep representations by providing explanations to the model’s decisions based on the identification of the input regions that contributed the most to the prediction. Furthermore, we implement an end-to-end deep learning architecture to predict binding affinity, where CNNs are exploited in their capacity to automatically surmise and extract discriminating deep representations from 1D sequential and structural data.</p>
 
 ## End-to-End Deep Learning Architecture: Convolutional Neural Networks + Feed-Forward Fully Connected Neural Network
-<p align="center"><img src="/figure/pred_model.png" width="50%" height="50%"/></p>
+<p align="center"><img src="/figure/pred_model.png" width="70%" height="70%"/></p>
 
 ## Chemogenomc Representative K-Fold 
-<p align="center"><img src="/figure/split_data.png" width="50%" height="50%"/></p>
+<p align="center"><img src="/figure/split_data.png" width="70%" height="70%"/></p>
 
 ## Regression Discriminative Localization Map
-<p align="center"><img src="/figure/gradram_result.png" width="50%" height="50%"/></p>
+<p align="center"><img src="/figure/gradram_result.png" width="90%" height="90%"/></p>
 
 ## 3D Docking Visualization
 - **Potential Binding Sites (≤ 5 Å) : Green**
@@ -17,11 +17,11 @@
 
 - **Matched Binding - L-Grad-RAM Hits : Red**
 
-**ABL1(E255K)-phosphorylated - SKI-606**
-<p align="center"><img src="/figure/abl1_ski606.png"/></p>
+### **ABL1(E255K)-phosphorylated - SKI-606**
+<p align="center"><img src="/figure/abl1_ski606.png" width="90%" height="90%"/></p>
 
-**DDR1 - Erlotinib**
-<p align="center"><img src="/figure/ddr1_erlotinib.png"/></p>
+### **DDR1 - Erlotinib**
+<p align="center"><img src="/figure/ddr1_erlotinib.png" width="90%" height="90%"/></p>
 
 ## Binding Affinity Prediction Model
 - **Two Parallel Convolution Neural Networks + Fully Connected Neural Network**
