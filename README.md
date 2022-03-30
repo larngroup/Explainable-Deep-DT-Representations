@@ -20,8 +20,8 @@
 ### **ABL1(E255K)-phosphorylated - SKI-606**
 <p align="center"><img src="/figure/abl1_ski606.png" width="90%" height="90%"/></p>
 
-### **DDR1 - Erlotinib**
-<p align="center"><img src="/figure/ddr1_erlotinib.png" width="90%" height="90%"/></p>
+### **DDR1 - Foretinib**
+<p align="center"><img src="/figure/ddr1_foretinib.png" width="90%" height="90%"/></p>
 
 ## Binding Affinity Prediction Model
 - **Two Parallel Convolution Neural Networks + Fully Connected Neural Network**
