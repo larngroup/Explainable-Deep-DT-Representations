@@ -64,7 +64,7 @@ Davis Kinase Binding Affinity Dataset + Clusters in the SOTA method format
 
 ## Docking
 - **abl1_pymol.pse**: ABL1(E255K)-phosphorylated - SKI-606 PyMol Session
-- **ddr1_pymol.pse**: DDR1 - Erlotinib PyMol Session
+- **ddr1_pymol.pse**: DDR1 - Foretinib PyMol Session
 
 ## Requirements:
 - Python 3.7.9
